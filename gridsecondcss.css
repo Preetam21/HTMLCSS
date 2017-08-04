@@ -1,0 +1,55 @@
+
+.container_12
+{
+	background-color:#FFFACD;
+}
+nav li{
+	display: inline;
+      }
+ nav a{
+ 	text-decoration: none;
+ }
+ header{
+  width: 100%;
+  background-color: #222;
+  padding: 60px 0;
+  clear: both;
+}
+header nav ul li a{
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+}
+header h1{
+	font-weight: 1000;
+	font-size: 30px;
+	color: #fff;
+}
+article li{
+  display: inline;
+}
+grid_8, grid_4{
+  height: 30em;
+}
+footer nav {
+  float: left;
+}
+
+footer{
+  width: 100%;
+  background-color: #222;
+  padding: 60px 0;
+  clear: both;
+}
+
+footer nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+  list-style: none;
+}
+
+footer nav ul li a{
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+}

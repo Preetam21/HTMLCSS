@@ -1,0 +1,93 @@
+.container_12
+{
+	background-color:#FFFACD;
+}
+
+nav li{
+	display: inline;
+      }
+ nav a{
+ 	text-decoration: none;
+ }
+.hero-image{
+     background-image: url('https://www.walldevil.com/wallpapers/a92/avengers-superheroes-best-widescreen-movies-wallpapers-art-collage-movie-digital.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 70%;
+	padding-top:100px;
+	margin-top:100px;
+	
+}
+.hero-content{
+	
+	top:20%;
+	left:0;
+	right:0;
+	bottom: 0;
+	text-align: center;
+	font-family: sans-serif;
+	color:#eee;
+}
+.hero-content button{
+	border:none;
+	display:inline-block;
+	padding:15px 25px;
+	color:#000;
+	background-color: #FFEB3B;
+	text-align:center;
+	font-size: 16px;
+	border-radius: 3px;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+.hero-image:hover{
+	background: linear-gradient(rgba(134,59,255,0.2),rgba(134,59,255,0.2)),url("https://www.walldevil.com/wallpapers/a92/avengers-superheroes-best-widescreen-movies-wallpapers-art-collage-movie-digital.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.heading{
+	text-align: center;;
+	font-size: 50px;
+	color: blue;
+	margin: 100px 0 50px 0;
+}
+footer nav {
+  float: left;
+}
+
+footer{
+  width: 100%;
+  background-color: #222;
+  padding: 60px 0;
+  clear: both;
+}
+
+footer nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+  list-style: none;
+}
+
+footer nav ul li a{
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+}
+header{
+  width: 100%;
+  background-color: #222;
+  padding: 60px 0;
+  clear: both;
+}
+header nav ul li a{
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+}
+header h1{
+	font-weight: 1000;
+	font-size: 30px;
+	color: #fff;
+}
